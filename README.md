@@ -20,7 +20,7 @@ I‌‌t may or may not have SuperCow's powers <br>
 - [x] Moving files to different folders based on their extension
 - [x] Clear Directories
 - [x] Delete files by Extension
-- [ ] Delete Directories
-- [ ] Delete Files & Directories by NAME (kinda useless ngl)
-- [ ] ‌‌Making possible for multiple actions to be executed in the same directory
+- [x] Move/Delete Directories
+- [ ] Move/Delete Files & Directories by NAME (kinda useless ngl)
+- [ ] ‌‌Making possible for multiple functions to be executed in the same directory
 - [ ] using the same function for multiple directories
