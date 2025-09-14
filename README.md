@@ -1,4 +1,5 @@
 # YAO
+
 YAO is a python script made to Organize your pc, it can move/delete files automatically based on a Configuration file
 
 <details>
@@ -16,11 +17,12 @@ I‌‌t may or may not have SuperCow's powers <br>
 </details>
 
 ## Features:
+
 - [ ] **A Documentation (i'm sorry but you're on your own for now)**
 - [x] Moving files to different folders based on their extension
 - [x] Clear Directories
 - [x] Delete files by Extension
 - [x] Move/Delete Directories
-- [ ] Move/Delete Files & Directories by NAME (kinda useless ngl)
-- [ ] ‌‌Making possible for multiple functions to be executed in the same directory
-- [ ] using the same function for multiple directories
+- [x] Move/Delete Files & Directories by NAME (kinda useless ngl)
+- [x] Having multiple functions executed in the same directory
+- [x] using the same function for multiple directories
